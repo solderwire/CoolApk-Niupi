@@ -1,5 +1,5 @@
 # CoolApk-Niupi
-A simple drawing of CoolApk's Niupi (Cow with beer) emoji with C and EasyX
+A simple drawing of CoolApk's iconic Niupi (Cow holding a glass of beer) emoji with C and EasyX
 
 This is not a project by CoolApk.
 
